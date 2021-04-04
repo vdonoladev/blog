@@ -22,20 +22,12 @@ Bom, essa foi uma pequena introdução minha e das tecnologias que utilizei para
 
 ### 🔗 Links úteis
 
-[My Linktree]([https://vdonoladev.github.io/my-linktree/](https://vdonoladev.github.io/my-linktree/))
-
-[GitHub]([https://github.com/vdonoladev/](https://github.com/vdonoladev))
-
-[LinkedIn]([https://www.linkedin.com/in/vdonoladev/](https://www.linkedin.com/in/vdonoladev/))
-
-[E-mail](mailto: contato.vdonoladev@gmail.com)
-
-[GoodReads]([https://www.goodreads.com/vdonoladev](https://www.goodreads.com/vdonoladev))
-
-[Facebook]([https://www.facebook.com/vdonoladev](https://www.facebook.com/vdonoladev))
-
-[Instagram]([https://www.instagram.com/vdonoladev/](https://www.instagram.com/vdonoladev/))
-
-[Telegram]([https://t.me/vdonoladev](https://t.me/vdonoladev))
-
-[Twitter]([https://twitter.com/vdonoladev](https://twitter.com/vdonoladev))
+<a href="https://vdonoladev.github.io/my-linktree" target="_blank">My Linktree</a>
+<a href="https://github.com/vdonoladev" target="_blank">GitHub</a>
+<a href="https://www.linkedin.com/in/vdonoladev/" target="_blank">LinkedIn</a>
+<a href="mailto: contato.vdonoladev@gmail.com" target="_blank">E-mail</a>
+<a href="https://www.goodreads.com/vdonoladev" target="_blank">GoodReads</a>
+<a href="https://www.facebook.com/vdonoladev" target="_blank">Facebook</a>
+<a href="https://www.instagram.com/vdonoladev/" target="_blank">Instagram</a>
+<a href="https://t.me/vdonoladev" target="_blank">Telegram</a>
+<a href="https://twitter.com/vdonoladev" target="_blank">Twitter</a>
