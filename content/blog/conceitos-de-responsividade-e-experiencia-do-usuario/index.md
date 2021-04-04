@@ -48,8 +48,8 @@ Nos ajuda a projetar em proporções harmoniosas balanceando os pesos dos elemen
 
 ---
 
-Nos próximos dias e semanas, estarei narrando minhas experiência no assunto.
+Nos próximos dias e semanas, estarei narrando minhas experiências no assunto.
 
 Mantenha-se  cauteloso, saudável e otimista (com moderação, é claro) e fique atento para mais conteúdo em breve!
 
-Até a próxima, Víctor.
+Até a próxima!
