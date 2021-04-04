@@ -22,12 +22,12 @@ Bom, essa foi uma pequena introdução minha e das tecnologias que utilizei para
 
 ### 🔗 Links úteis
 
-<a href="https://vdonoladev.github.io/my-linktree" target="_blank">My Linktree</a>
-<a href="https://github.com/vdonoladev" target="_blank">GitHub</a>
-<a href="https://www.linkedin.com/in/vdonoladev/" target="_blank">LinkedIn</a>
-<a href="mailto: contato.vdonoladev@gmail.com" target="_blank">E-mail</a>
-<a href="https://www.goodreads.com/vdonoladev" target="_blank">GoodReads</a>
-<a href="https://www.facebook.com/vdonoladev" target="_blank">Facebook</a>
-<a href="https://www.instagram.com/vdonoladev/" target="_blank">Instagram</a>
-<a href="https://t.me/vdonoladev" target="_blank">Telegram</a>
-<a href="https://twitter.com/vdonoladev" target="_blank">Twitter</a>
+<p><a href="https://vdonoladev.github.io/my-linktree" target="_blank">My Linktree</a></p>
+<p><a href="https://github.com/vdonoladev" target="_blank">GitHub</a></p>
+<p><a href="https://www.linkedin.com/in/vdonoladev/" target="_blank">LinkedIn</a></p>
+<p><a href="mailto: contato.vdonoladev@gmail.com" target="_blank">E-mail</a></p>
+<p><a href="https://www.goodreads.com/vdonoladev" target="_blank">GoodReads</a></p>
+<p><a href="https://www.facebook.com/vdonoladev" target="_blank">Facebook</a></p>
+<p><a href="https://www.instagram.com/vdonoladev/" target="_blank">Instagram</a></p>
+<p><a href="https://t.me/vdonoladev" target="_blank">Telegram</a></p>
+<p><a href="https://twitter.com/vdonoladev" target="_blank">Twitter</a></p>
