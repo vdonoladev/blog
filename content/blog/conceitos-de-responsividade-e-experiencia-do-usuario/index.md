@@ -1,5 +1,5 @@
 ---
-title: Conceitos de Responsividade e Experiência de Usuário 1
+title: Conceitos de Responsividade e Experiência de Usuário
 date: "2021-04-04T22:12:03.284Z"
 description: "Olá e sejam bem-vindos à minha série "Conceitos de Responsividade e Experiência de Usuário". Nos próximos dias e semanas, textos semanais serão postados aqui como uma forma de compartilhar um dos conceitos mais importantes de hoje no mundo da programação. Vamos começar?"
 ---
