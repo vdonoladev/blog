@@ -19,3 +19,23 @@ Como gosto sempre de aprender coisas novas resolvi experimentar o Gatsby para ve
 ## Conclusão
 
 Bom, essa foi uma pequena introdução minha e das tecnologias que utilizei para criar esse blog. Se você tiver alguma dúvida e quiser entrar em contato comigo para deixar dicas, sugestões ou feedbacks pode me enviar um [e-mail](mailto: contato.vdonoladev@gmail.com).
+
+### 🔗 Links úteis
+
+[My Linktree]([https://vdonoladev.github.io/my-linktree/](https://vdonoladev.github.io/my-linktree/))
+
+[GitHub]([https://github.com/vdonoladev/](https://github.com/vdonoladev))
+
+[LinkedIn]([https://www.linkedin.com/in/vdonoladev/](https://www.linkedin.com/in/vdonoladev/))
+
+[E-mail](mailto: contato.vdonoladev@gmail.com)
+
+[GoodReads]([https://www.goodreads.com/vdonoladev](https://www.goodreads.com/vdonoladev))
+
+[Facebook]([https://www.facebook.com/vdonoladev](https://www.facebook.com/vdonoladev))
+
+[Instagram]([https://www.instagram.com/vdonoladev/](https://www.instagram.com/vdonoladev/))
+
+[Telegram]([https://t.me/vdonoladev](https://t.me/vdonoladev))
+
+[Twitter]([https://twitter.com/vdonoladev](https://twitter.com/vdonoladev))
