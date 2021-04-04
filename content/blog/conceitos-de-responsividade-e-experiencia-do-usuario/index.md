@@ -1,7 +1,7 @@
 ---
 title: Conceitos de Responsividade e Experiência de Usuário 1
 date: "2021-04-04T22:12:03.284Z"
-description: "Já dizia Linus Pauling “A melhor maneira de ter uma boa ideia é ter várias boas ideias.”, mas de nada adianta ter várias boas ideias e depois… esquece-las. Então, como não perder suas ideias?"
+description: "Olá e sejam bem-vindos à minha série "Conceitos de Responsividade e Experiência de Usuário". Nos próximos dias e semanas, textos semanais serão postados aqui como uma forma de compartilhar um dos conceitos mais importantes de hoje no mundo da programação."
 ---
 
 Olá e sejam bem-vindos à minha série "Conceitos de Responsividade e Experiência de Usuário". Nos próximos dias e semanas, textos semanais serão postados aqui como uma forma de compartilhar um dos conceitos mais importantes de hoje no mundo da programação. Vamos começar?
